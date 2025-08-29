@@ -240,7 +240,7 @@ export default {
 <style>
 /* Sidebar fixa à esquerda, estilo dashboard moderno */
 .sidebar {
-  width: 220px;
+  width: 260px;
   background: #fff;
   border-radius: 24px;
   margin: 1rem 0 1rem 1rem;
